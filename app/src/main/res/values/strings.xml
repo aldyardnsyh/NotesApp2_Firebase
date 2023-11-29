@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesApp2_RoomDatabase</string>
+    <string name="notes_here">Notes Here</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="_12_00_pm">12:00 pm</string>
+    <string name="start_note_typing">Start Note Typing...</string>
+    <string name="notes_app">Notes App</string>
+    <string name="developed_by">Aldy Ardiansyah</string>
+    <string name="version">v.1.0</string>
+
+</resources>
